@@ -1,3 +1,5 @@
+package com.session1;
+
 import java.util.Date;
 
 public class User {
@@ -33,7 +35,7 @@ public class User {
         System.out.println(anant.dob);
 
 //
-//        User dolker = new User();
+//        com.session1.User dolker = new com.session1.User();
 //        dolker.firstName = "Dolker";
 //        dolker.surName = "dol";
 

@@ -1,3 +1,5 @@
+package com.session1;
+
 public class DataTypes {
 
     long age = 100;

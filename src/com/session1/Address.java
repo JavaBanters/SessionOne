@@ -1,4 +1,4 @@
-
+package com.session1;
 /*
 
     This is an example comment. We are trying to learn Class and Object concepts
@@ -12,13 +12,13 @@ public class Address {
 
     public String houseNumber;
 
-    public String streetNumber;
+    private String streetNumber;
 
     public int pincode; //this is a commit
 
 
 
-    void printDetail(Address obj) {
+    private void printDetail(Address obj) {
         System.out.println("Details:::  " +obj.houseNumber+ "  " + obj.streetNumber + "  " + obj.pincode);
     }
 
